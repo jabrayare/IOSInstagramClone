@@ -9,6 +9,7 @@ target 'InstagramClone' do
   # Add Parse pods and install
     pod 'Parse'
     pod 'AlamofireImage'
+    pod 'MessageInputBar'
 
   target 'InstagramCloneTests' do
     inherit! :search_paths
