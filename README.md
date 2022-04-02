@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./instagramClonePart2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./instagramPart2.gif' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
