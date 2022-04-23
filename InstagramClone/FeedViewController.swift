@@ -131,6 +131,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         let post = posts[section]
+        print("Post: \(post)")
         let comments = (post["comments"] as? [PFObject]) ?? []
         
         return comments.count + 2
